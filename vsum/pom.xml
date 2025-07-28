@@ -51,6 +51,10 @@
             <groupId>tools.vitruv</groupId>
             <artifactId>tools.vitruv.framework.vsum</artifactId>
         </dependency>
+        <dependency>
+            <groupId>tools.vitruv</groupId>
+            <artifactId>tools.vitruv.framework.remote</artifactId>
+        </dependency>
 
         <!-- external dependencies -->
         <dependency>
